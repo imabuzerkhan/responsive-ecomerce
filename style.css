@@ -412,7 +412,7 @@ font-size: 22px;
 }
 /* navbar media query */
 @media screen and (max-width:799px){
-  #navbar{
+  /* #navbar{
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
@@ -456,7 +456,7 @@ font-size: 22px;
     height: 70vh;
     padding: 0 80px;
     background-position: top 30% right 30%;
-  }
+  } */
 /* #navbar{
  
   display: flex;
